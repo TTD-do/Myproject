@@ -35,3 +35,8 @@ async function main() {
 
   console.log("✅ Contract deployed at:", contract.target);
 }
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
