@@ -4,17 +4,9 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Docs
+      title: Vi
       path: docs
       default: true
-      content:
-        directory: ./docs
-        language: en
-    - type: space
-      key: space-2
-      title: Eng
-      path: docs-1
-      draft: true
       content:
         directory: ./docs
         language: en
