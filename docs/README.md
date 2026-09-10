@@ -28,7 +28,7 @@ Linera là Layer 1 dùng kiến trúc **microchain**: mỗi user có chain riên
 1. **App / Originals:** nơi trade prediction\
    https://app.linera.xyz
 2. **Portal:** nơi claim badge, xem points, leaderboard, độ ưu tiên sale\
-   https://portal.linera.net
+   [https://portal.linera.net](https://portal.linera.net/?referralCode=noble-mantis-3791)
 3. **Sale** (không bắt buộc cho testnet)\
    https://sale.linera.net
 
