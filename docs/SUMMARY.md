@@ -7,6 +7,5 @@
 * [4. Points (Portal Points)](4.-points-portal-points.md)
 * [5. Role và Xp](5.-role-va-xp.md)
 * [6. Checklist chống sai](6.-checklist-chong-sai.md)
-* [7. Community Round $LNRA (liên quan badge)](7.-community-round-usdlnra-lien-quan-badge.md)
-* [8. Link chính thức](8.-link-chinh-thuc.md)
-* [9. Disclaimer](9.-disclaimer.md)
+* [7. Link chính thức](7.-link-chinh-thuc.md)
+* [8. Disclaimer](8.-disclaimer.md)
