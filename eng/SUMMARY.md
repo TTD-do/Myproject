@@ -7,6 +7,5 @@
 * [4. Points (Portal Points)](4.-points-portal-points.md)
 * [5. Role and Xp](5.-role-and-xp.md)
 * [6. Anti-mistake checklist](6.-anti-mistake-checklist.md)
-* [7. $LNRA Community Round (badge-related)](7.-usdlnra-community-round-badge-related.md)
-* [8. Official links](8.-official-links.md)
-* [9. Disclaimer](9.-disclaimer.md)
+* [7. Official links](7.-official-links.md)
+* [8. Disclaimer](8.-disclaimer.md)
